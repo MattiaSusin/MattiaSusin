@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mattia</h1>
-<h3 align="center">A Junior Full Stack developer</h3>
+<h3 align="center">A Junior Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **.Net , C# , SQL Server and Angular**
 
